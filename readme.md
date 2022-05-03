@@ -1,5 +1,5 @@
 ### This set of folders contains files and scripts used to interpret parcel data from two California counties.
-To view the script used to create the map featured in the Los Angeles Times, access the Jupyter Notebook "warehouses.ipynb" in the main directory.
+To view the script used to create the map featured in the [Los Angeles Times](https://www.latimes.com/opinion/story/2022-05-01/inland-empire-warehouse-growth-map-environment), access the Jupyter Notebook "warehouses.ipynb" in the main directory.
 
 To interact with the sample ArcGIS Pro environment used to create the maps found in the Jupyter Notebook, [download](https://pitzer.box.com/s/i5c6nbo2vpuwdj76a25nm4dtzw1j1oxr) our .zip file containing the relevant files, directories, and scripts, as well as all maps we have produced using the workflow.
 
