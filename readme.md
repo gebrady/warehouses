@@ -7,3 +7,4 @@ To view the maps, access the Maps directory after extracting.
 
 To open the GIS environment the script operates in, access "IE_WarehouseGrowth.aprx" in the home directory of the extracted folder.
  
+Other information and related projects can be found on the [homepage](https://www.pitzer.edu/redfordconservancy/) of the Redford Conservancy at Pitzer College
